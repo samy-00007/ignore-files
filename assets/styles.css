@@ -1,0 +1,10 @@
+#ignore {
+    background-image: url(icon.svg);
+    background-size : 24px;
+    background-position: left 0px top 0px;
+}
+
+.ext-action {
+    font-size: 12px;
+    text-align: right !important;
+}
